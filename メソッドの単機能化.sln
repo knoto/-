@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "メソッドの単機能化", "メソッドの単機能化\メソッドの単機能化.csproj", "{C8FE5280-464B-42A0-B992-9E8730F1AC15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8FE5280-464B-42A0-B992-9E8730F1AC15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8FE5280-464B-42A0-B992-9E8730F1AC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8FE5280-464B-42A0-B992-9E8730F1AC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8FE5280-464B-42A0-B992-9E8730F1AC15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69417C5C-6CC6-4353-9B20-D012872FAC0B}
+	EndGlobalSection
+EndGlobal
